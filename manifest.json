@@ -1,6 +1,6 @@
 {
   "name": "Mi Galería",
-  "short_name": "Mi_Galería2026",
+  "short_name": "Mi_Galería",
   "description": "Galería digital de libre acceso, desarrollada de manera nativa con HTML, CSS y JavaScript como una Progressive Web App (PWA) para la exhibición de obras plásticas, óleos y dibujos.",
   "start_url": "./index.html",
   "display": "standalone",
