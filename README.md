@@ -1,6 +1,6 @@
 # Informe de Ingeniería: Mi Galería Digital
 
-Galería digital de libre acceso, desarrollada de manera nativa con HTML, CSS y JavaScript como una Progressive Web App (PWA) para la exhibición de obras plásticas, óleos y dibujos.
+Galería digital de libre acceso, desarrollada de manera nativa con HTML, CSS y JavaScript como una Progressive Web App (PWA) para la exhibición de obras originales de acuarelas, óleos y dibujos.
 
 ## Índice
 
@@ -56,7 +56,7 @@ XI. Referencias Bibliográficas
 
 ## I. Introducción
 
-El presente informe documenta el desarrollo de una Progressive Web App (PWA) de exhibición artística, diseñada bajo el paradigma de la Ingeniería de Invisibilidad. La aplicación tiene como propósito fundamental ofrecer un espacio minimalista para la visualización de obras plásticas, óleos y dibujos, optimizado para una navegación fluida y absoluta autonomía digital. A diferencia de las plataformas convencionales, este software se rige por el principio de mínimos recursos y máxima eficiencia, eliminando cualquier componente estético o lógico que no cumpla una función crítica demostrable. La simplicidad de su interfaz oculta una ingeniería basada en Vanilla JavaScript y CSS Grid, garantizando que la tecnología se funda con la experiencia del usuario de manera silenciosa.
+El presente informe documenta el desarrollo de una Progressive Web App (PWA) de exhibición artística, diseñada bajo el paradigma de la Ingeniería de Invisibilidad. La aplicación tiene como propósito fundamental ofrecer un espacio minimalista para la visualización de obras en acuarela, óleos y dibujos, optimizado para una navegación fluida y absoluta autonomía digital. A diferencia de las plataformas convencionales, este software se rige por el principio de mínimos recursos y máxima eficiencia, eliminando cualquier componente estético o lógico que no cumpla una función crítica demostrable. La simplicidad de su interfaz oculta una ingeniería basada en Vanilla JavaScript y CSS Grid, garantizando que la tecnología se funda con la experiencia del usuario de manera silenciosa.
 
 ## II. Identificación del Problema
 
@@ -83,7 +83,7 @@ Desarrollar una infraestructura de software robusta y minimalista mediante una P
 
 El proyecto se define como un activo digital de acceso abierto y gratuito, diseñado para difundir creaciones artísticas sin barreras económicas ni fricción. Sus características principales son:
 
-* **Finalidad Artística:** Herramienta de uso libre orientada a la exposición permanente de óleos, dibujos y obras plásticas del autor.
+* **Finalidad Artística:** Herramienta de uso libre orientada a la exposición permanente de acuarelas, óleos, dibujos y obras plásticas del autor.
 * **Modelo sin Fricción:** Al ser de libre acceso y no requerir registro de usuario, se elimina cualquier barrera de entrada, priorizando la visualización inmediata.
 * **Ausencia de Monetización Invasiva:** El software está libre de publicidad y sistemas de rastreo comerciales, garantizando un espacio limpio y privado.
 * **Bajo Costo Operativo:** Gracias a su arquitectura técnica simplificada y al despliegue en la capa gratuita de Vercel, el mantenimiento del sistema es de costo cero.
@@ -100,7 +100,7 @@ Se aplicó un Scrum de ciclo único, priorizando la agilidad y la entrega de un 
 
 ### Historias de Usuario
 
-* **Como visitante**, quiero una interfaz sin distracciones para explorar obras plásticas y óleos con un solo click.
+* **Como visitante**, quiero una interfaz sin distracciones para explorar obras originales en acuarela, dibujo y óleos con un solo click.
 * **Como crítico o coleccionista**, necesito que la app consuma el mínimo de recursos para visualizar los detalles de las obras sin bloqueos.
 * **Como usuario móvil**, deseo instalar la galería como una app nativa (PWA) para acceder rápidamente desde mi pantalla de inicio.
 
@@ -140,8 +140,8 @@ graph TD
 
 Define las interacciones esenciales entre el usuario y la galería digital, manteniendo un enfoque directo en la exploración artística.
 
-* Visualización: Carga de la cuadrícula de óleos y dibujos.
-* Exploración: Detalle de piezas individuales de la colección.
+* Visualización: Carga de la cuadrícula de acuarelas, óleos y dibujos.
+* Exploración: Detalle de piezas individuales de la colección en un carrusel que muestra las obras por categorias.
 * Instalación: Anclaje del contenedor al dispositivo (PWA).
 
 ```mermaid
