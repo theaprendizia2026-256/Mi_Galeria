@@ -1,5 +1,10 @@
 # Informe de Ingeniería: Mi Galería Digital
 
+<div align="center">
+  <img src="./images/screenshot.jpg" width="250" alt="Mi_Galeria2026">
+  <p><i>Interfaz ergonómica adaptativa con galería integrada y soporte PWA nativo.</i></p>
+</div>
+
 Galería digital de libre acceso, desarrollada de manera nativa con HTML, CSS y JavaScript como una Progressive Web App (PWA) para la exhibición de obras originales de acuarelas, óleos y dibujos.
 
 ## Índice
