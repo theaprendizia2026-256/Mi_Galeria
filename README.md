@@ -2,7 +2,7 @@
 Technical Stack: Vanilla HTML5 / CSS3 / JavaScript Deployment: [https://tarjeta-arte.vercel.app/]
 
 <div align="center">
-  <img src="./images/foto 1.png" width="250" alt="Mi_Galeria2026">
+  <img src="./images/foto1.png" width="250" alt="Mi_Galeria2026">
   <p><i>Interfaz ergonómica adaptativa con galería integrada y soporte PWA nativo.</i></p>
 </div>
 
