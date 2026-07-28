@@ -1,5 +1,5 @@
 # Informe de Ingeniería: Mi Galería Digital
-Technical Stack: Vanilla HTML5 / CSS3 / JavaScript Deployment: [https://tarjeta-arte.vercel.app/]
+Technical Stack: Vanilla HTML5 / CSS3 / JavaScript Deployment: [https://mi-galeria2026.vercel.app/]
 
 <div align="center">
   <img src="./images/foto1.png" width="250" alt="Mi_Galeria2026">
