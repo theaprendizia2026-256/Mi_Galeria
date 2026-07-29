@@ -346,9 +346,9 @@ body {
   cursor: default;       /* Mantenemos la elegancia de que no es un link */
 }
 .artwork-info h3 {
-  font-size: 1.3rem;
+  font-size: 0.9rem;
   font-family: 'Jost', sans-serif;
-  font-weight: 450;
+  font-weight: 400;
   color: #999;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -357,16 +357,16 @@ body {
 }
 
 .artwork-info p {
-  font-size: 0.95rem;
+  font-size: 0.75rem;
   font-family: 'Jost', sans-serif;
-  font-weight: 300;
+  font-weight: 250;
   color: #999;
   letter-spacing: 1px;
   transition: all 0.4s ease;
 }
 
 .artwork-info:hover {
-  transform: scale(1.2); 
+  transform: scale(1.1); 
   transform-origin: left; 
 }
 
