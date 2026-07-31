@@ -461,7 +461,7 @@ body {
   max-width: 1000px;
   
   /* CAMBIO CLAVE: 120px arriba, centro a los lados, y solo 30px abajo */
-  margin: 100px auto 50px; 
+  margin: 90px auto 30px; 
   text-align: center;
   letter-spacing: 0.5px;
   text-shadow: 0 0 10px rgba(255, 255, 255, 0.1); 
