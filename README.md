@@ -2,7 +2,7 @@
 Technical Stack: Vanilla HTML5 / CSS3 / JavaScript Deployment: [https://mi-galeria2026.vercel.app/]
 
 <div align="center">
-  <img src="./images/foto1.png" width="250" alt="Mi_Galeria2026">
+  <img src="https://ehqzwwhowyuvrrnwszhr.supabase.co/storage/v1/object/public/galeria/screenshot.png" width="250" alt="Mi_Galeria2026">
   <p><i>Interfaz ergonómica adaptativa con galería integrada y soporte PWA nativo.</i></p>
 </div>
 
