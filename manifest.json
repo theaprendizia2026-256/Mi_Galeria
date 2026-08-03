@@ -9,13 +9,13 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "images/logo.png",
+      "src": "https://ehqzwwhowyuvrrnwszhr.supabase.co/storage/v1/object/public/galeria/icono.png",
       "sizes": "162x162",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "images/logo.png",
+      "src": "https://ehqzwwhowyuvrrnwszhr.supabase.co/storage/v1/object/public/galeria/icono.png",
       "sizes": "312x312",
       "type": "image/png"
     }
