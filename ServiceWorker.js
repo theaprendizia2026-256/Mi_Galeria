@@ -4,8 +4,7 @@ const urlsToCache = [
   './style.css',
   './script.js',
   './manifest.json',
-  './images/logo.png'
-];
+ ];
 
 self.addEventListener('install', event => {
   event.waitUntil(
